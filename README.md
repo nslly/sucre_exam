@@ -23,9 +23,11 @@ git clone https://github.com/nslly/sucre_exam.git
 cd sucre_exam
 
 
-3. Install the project dependencies:
+3. Install the project dependencies and node packages:
 
 composer install
+
+npm install
 
 4. Set up your .env file:
 
